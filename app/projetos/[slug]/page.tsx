@@ -73,7 +73,7 @@ export default function ProjectPage({ params }: ProjectPageProps) {
                     rel="noopener noreferrer"
                     className="text-sm text-black-600 hover:underline"
                   >
-                    conheça o projeto
+                    conheça o projeto 
                   </a>
                 </div>
               )}
