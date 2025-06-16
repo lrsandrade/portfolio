@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página não encontrada - Laryssa Andrade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      margin-bottom: 1.5rem;
+    }
+    a {
+      color: #000;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Página não encontrada</h1>
+    <p>A página que você está procurando não existe ou foi movida.</p>
+    <p><a href="/">Voltar para a página inicial</a></p>
+  </div>
+  <script>
+    // Redirect to home page after a short delay
+    setTimeout(function() {
+      window.location.href = '/';
+    }, 5000);
+  </script>
+</body>
+</html>
