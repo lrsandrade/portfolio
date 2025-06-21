@@ -49,12 +49,13 @@ export default function SobrePage() {
 
                <div className="mt-8 space-y-4"></div>
               <p className="text-lg md:text-xl leading-relaxed">
-                artista visual e pesquisadora. trabalho com fotografia documental e colagem para criar narrativas sobre memória, arquivos pessoais e histórias coletivas.
+                artista visual e pesquisadora. trabalho com fotografia documental, design e colagem, criando narrativas sobre memória, arquivos pessoais e histórias coletivas.
               </p>
 
               <div className="mt-8 space-y-4">
                 <p className="text-lg md:text-xl leading-relaxed">
-                bacharela em serviço social, desenvolvo projetos que dialogam com identidade, território e afetos, utilizando suportes analógicos e digitais.</p>
+                b. em serviço social, desenvolvo projetos que dialogam com identidade, território e afetos, utilizando suportes analógicos e digitais.
+              </p>
               </div>
 
               {/* contatos */}
